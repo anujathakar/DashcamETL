@@ -1,0 +1,20 @@
+arrest_type_id,arrest_type
+1,A - Marked Patrol
+2,B - Unmarked Patrol
+3,C - Marked VASCAR
+4,D - Unmarked VASCAR
+5,E - Marked Stationary Radar
+6,F - Unmarked Stationary Radar
+7,G - Marked Moving Radar (Stationary)
+8,H - Unmarked Moving Radar (Stationary)
+9,I - Marked Moving Radar (Moving)
+10,J - Unmarked Moving Radar (Moving)
+11,K - Aircraft Assist
+12,L - Motorcycle
+13,M - Marked (Off-Duty)
+14,N - Unmarked (Off-Duty)
+15,O - Foot Patrol
+16,P - Mounted Patrol
+17,Q - Marked Laser
+18,R - Unmarked Laser
+19,S - License Plate Recognition

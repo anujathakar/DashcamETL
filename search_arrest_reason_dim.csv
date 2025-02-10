@@ -1,0 +1,9 @@
+search_arrest_reason_id,search_arrest_reason
+1,DUI
+2,DWI
+3,Marihuana
+4,Other
+5,Search
+6,Stop
+7,Traffic
+8,Warrant

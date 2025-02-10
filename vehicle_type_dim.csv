@@ -1,0 +1,29 @@
+vehicle_type_id,vehicle_type
+1,01 - Motorcycle
+2,02 - Automobile
+3,03 - Station Wagon
+4,04 - Limousine
+5,05 - Light Duty Truck
+6,06 - Heavy Duty Truck
+7,07 - Truck/Road Tractor
+8,08 - Recreational Vehicle
+9,09 - Farm Vehicle
+10,10 - Transit Bus
+11,11 - Cross Country Bus
+12,12 - School Bus
+13,13 - Ambulance(Emerg)
+14,14 - Ambulance(Non-Emerg)
+15,15 - Fire Vehicle
+16,16 - Fire(Non-Emerg)
+17,18 - Police(Non-Emerg)
+18,19 - Moped
+19,20 - Commercial Rig
+20,21 - Tandem Trailer
+21,22 - Mobile Home
+22,23 - Travel/Home Trailer
+23,24 - Camper
+24,25 - Utility Trailer
+25,26 - Boat Trailer
+26,27 - Farm Equipment
+27,28 - Other
+28,29 - Unknown
